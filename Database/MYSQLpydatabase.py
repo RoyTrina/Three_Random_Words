@@ -4,7 +4,7 @@ from PyQt5.QtSql import QSqlDatabase, QSqlQuery
 # The result is an array containing the drivers : ['QSQLITE', 'QODBC', 'QODBC3', 'QPSQL', 'QPSQL7']
 
 DB = QSqlDatabase.addDatabase("QODBC3")
-DB.setDatabaseName("three_random_words_data.db")
+DB.setDatabaseName("three_random_words_data")
 
 if DB.open():
     statement = QSqlQuery()

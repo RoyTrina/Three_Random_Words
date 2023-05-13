@@ -1,0 +1,28 @@
+QMainWindow#PCPage {
+    background-color: white;
+    opacity: 0.4;
+    background-image: linear-gradient(to right, rgb(237, 72, 72), rgb(237, 72, 72) 20px, white 20px, white);
+    background-size: 60px 100%;
+}
+
+QMainWindow#AndroidPage {
+    background-color: white;
+    opacity: 0.4;
+    background-image: linear-gradient(to right, rgb(237, 72, 72), rgb(237, 72, 72) 20px, white 20px, white);
+    background-size: 60px 100%;
+}
+
+QMainWindow#IPhonePage {
+    background-color: white;
+    opacity: 0.4;
+    background-image: linear-gradient(to right, rgb(237, 72, 72), rgb(237, 72, 72) 20px, white 20px, white);
+    background-size: 60px 100%;
+}
+
+QMainWindow#TabletPage {
+    background-color: white;
+    opacity: 0.4;
+    background-image: linear-gradient(to right, rgb(237, 72, 72), rgb(237, 72, 72) 20px, white 20px, white);
+    background-size: 60px 100%;
+}
+
